@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+## Welcome to Page on Packet capture
 
-You can use the [editor on GitHub](https://github.com/JagannathS/PacketCaptures/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page contains the link to various projects packer captures for 4G and 5G opensource project which are being used by me in the lab.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Open5GS Project
 
-### Markdown
+#### Core
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### RAN
 
-```markdown
-Syntax highlighted code block
+#### UE
 
-# Header 1
-## Header 2
-### Header 3
+### OAI 4G CN Project
 
-- Bulleted
-- List
+#### Core
 
-1. Numbered
-2. List
+#### RAN
 
-**Bold** and _Italic_ and `Code` text
+#### UE
 
-[Link](url) and ![Image](src)
-```
+### OAI CN 5G Project
+#### Core
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+#### RAN
 
-### Jekyll Themes
+#### UE
+### SRSRAN Project
+#### Core
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JagannathS/PacketCaptures/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+#### RAN
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### UE
